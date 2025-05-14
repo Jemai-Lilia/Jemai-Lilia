@@ -1,4 +1,6 @@
-<h1 align="center">👋 Hello, I'm Lilia Jemai</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F79A25&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Lilia+Jemai" alt="Typing SVG" />
+</h1>
 
 <p align="center">
 🎓 Étudiante ingénieure en informatique à ESPRIT  
