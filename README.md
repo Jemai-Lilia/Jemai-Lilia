@@ -2,8 +2,9 @@
 
 <p align="center">
 🎓 Étudiante ingénieure en informatique à ESPRIT  
+  <br>
 🔧 Full Stack Developer | DevOps Enthusiast  
-🌱 En recherche d’un stage d’été (2 mois) pour approfondir mes compétences  
+ 
 </p>
 
 ---
